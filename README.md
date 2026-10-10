@@ -1,16 +1,78 @@
-# React + Vite
+# St-Luke-Hospital
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+St-Luke-Hospital is a React-based hospital website developed as a practical Software Development project. It demonstrates my skills in building a multi-page web application and organizing a user interface using reusable React components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+https://st-luke-hospital-rose.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Source Code
 
-## Expanding the ESLint configuration
+https://github.com/Umutoniwase-gaella/St-Luke-Hospital
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **React** — building user interface components
+- **JavaScript** — application logic
+- **Vite** — development server and build tool
+- **CSS** — website styling and layout
+- **Git and GitHub** — version control and source code hosting
+- **Vercel** — deployment
+
+## Run the Project Locally
+
+### Requirements
+
+- Node.js and npm installed
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Umutoniwase-gaella/St-Luke-Hospital.git
+   ```
+
+2. Enter the project folder:
+
+   ```bash
+   cd St-Luke-Hospital
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open the local URL displayed in your terminal.
+
+## Skills Demonstrated
+
+- React component development
+- Frontend application structure
+- JavaScript programming
+- CSS styling and layout
+- Running and deploying a web application
+- Using Git and GitHub for version control
+
+## Future Improvements
+
+- Add appointment booking functionality
+- Add validated patient registration forms
+- Connect the application to a backend API
+- Improve accessibility and mobile responsiveness
+
+## Author
+
+Software Development student interested in software engineering, application development, and cybersecurity.
+
+GitHub: https://github.com/Umutoniwase-gaella
